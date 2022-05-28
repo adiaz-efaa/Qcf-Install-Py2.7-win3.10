@@ -3,6 +3,6 @@
 En un entorno local con Python 2.7 ejecutar:
 
 ```
-pip install git+https://github.com/adiaz-efaa/Qcf-Install-Py2.7-win3.10.git
+pip install git+https://github.com/adiaz-efaa/Qcf-Install-Py2.7-win10.git
 ```
 
