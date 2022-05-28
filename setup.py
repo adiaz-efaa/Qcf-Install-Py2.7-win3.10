@@ -12,7 +12,7 @@ setuptools.setup(
     long_description=long_description,
     include_package_data=True,
     long_description_content_type="text/markdown",
-    url="https://github.com/adiaz-efaa/Qcf-Install-Py2.7-win3.10.git",
+    url="https://github.com/adiaz-efaa/Qcf-Install-Py2.7-win10.git",
     classifiers=[
         "Programming Language :: Python :: 2",
         "License :: OSI Approved :: MIT License",
