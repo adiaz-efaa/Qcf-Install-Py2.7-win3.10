@@ -8,7 +8,7 @@ setuptools.setup(
     version="0.0.3",
     author="Álvaro Díaz Valenzuela",
     author_email="alvaro@efaa.cl",
-    description="Libreria para la valorización de swaps de tasa de interés y momeda y forwards de tipo de cambio.",
+    description="Libreria para la valorización de swaps de tasa de interés y moneda y forwards de tipo de cambio.",
     long_description=long_description,
     include_package_data=True,
     long_description_content_type="text/markdown",
